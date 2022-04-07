@@ -1,0 +1,8 @@
+download_fashion_mnist.py
+- allows you to download the Fashion-MNIST dataset to a compressed .npz file,
+  which cnn.py can load.
+
+cnn.py
+- Covers classification with CNNs, with implementation in torch.
+
+
